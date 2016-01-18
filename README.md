@@ -1,8 +1,8 @@
 # lowpoly风格图片生成器
 
-forked from kinglisky/lowpoly http://kinglisky.github.io/lowpoly/
+[forked from kinglisky/lowpoly]http://kinglisky.github.io/lowpoly/
 
-[low poly风格图片的生成工具。]
+low poly风格图片的生成工具。
 
 
 知乎[回答](https://www.zhihu.com/question/29856775?sort=created)
